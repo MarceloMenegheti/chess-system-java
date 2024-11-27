@@ -16,11 +16,14 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 
 ## Tecnologias utilizadas
 - Java
-  
+
 ## Pré-requisitos:
 - Eclipse (IDE)
 - Java 21
-  
+
+## Modelo conceitual
+![chess-system-design](https://github.com/user-attachments/assets/7b26a90e-1041-4750-beb1-11621a5dca0b)
+
 ## Como executar o projeto
 
 #### clonar repositório
